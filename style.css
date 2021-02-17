@@ -1,0 +1,30 @@
+.body {
+    background-color: bl;
+  }
+  .img {
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .playAgain {
+    display: none;
+    background-color: greenyellow;
+    border-radius: 30px;
+    font-size: 18px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+  }
+  
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+  }
